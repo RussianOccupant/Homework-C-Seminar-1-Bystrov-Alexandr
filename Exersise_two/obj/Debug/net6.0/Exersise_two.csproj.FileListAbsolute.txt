@@ -1,0 +1,15 @@
+C:\Users\sshby\OneDrive\Рабочий стол\Homework Bystrov\Exersise_two\bin\Debug\net6.0\Exersise_two.exe
+C:\Users\sshby\OneDrive\Рабочий стол\Homework Bystrov\Exersise_two\bin\Debug\net6.0\Exersise_two.deps.json
+C:\Users\sshby\OneDrive\Рабочий стол\Homework Bystrov\Exersise_two\bin\Debug\net6.0\Exersise_two.runtimeconfig.json
+C:\Users\sshby\OneDrive\Рабочий стол\Homework Bystrov\Exersise_two\bin\Debug\net6.0\Exersise_two.dll
+C:\Users\sshby\OneDrive\Рабочий стол\Homework Bystrov\Exersise_two\bin\Debug\net6.0\Exersise_two.pdb
+C:\Users\sshby\OneDrive\Рабочий стол\Homework Bystrov\Exersise_two\obj\Debug\net6.0\Exersise_two.csproj.AssemblyReference.cache
+C:\Users\sshby\OneDrive\Рабочий стол\Homework Bystrov\Exersise_two\obj\Debug\net6.0\Exersise_two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sshby\OneDrive\Рабочий стол\Homework Bystrov\Exersise_two\obj\Debug\net6.0\Exersise_two.AssemblyInfoInputs.cache
+C:\Users\sshby\OneDrive\Рабочий стол\Homework Bystrov\Exersise_two\obj\Debug\net6.0\Exersise_two.AssemblyInfo.cs
+C:\Users\sshby\OneDrive\Рабочий стол\Homework Bystrov\Exersise_two\obj\Debug\net6.0\Exersise_two.csproj.CoreCompileInputs.cache
+C:\Users\sshby\OneDrive\Рабочий стол\Homework Bystrov\Exersise_two\obj\Debug\net6.0\Exersise_two.dll
+C:\Users\sshby\OneDrive\Рабочий стол\Homework Bystrov\Exersise_two\obj\Debug\net6.0\refint\Exersise_two.dll
+C:\Users\sshby\OneDrive\Рабочий стол\Homework Bystrov\Exersise_two\obj\Debug\net6.0\Exersise_two.pdb
+C:\Users\sshby\OneDrive\Рабочий стол\Homework Bystrov\Exersise_two\obj\Debug\net6.0\Exersise_two.genruntimeconfig.cache
+C:\Users\sshby\OneDrive\Рабочий стол\Homework Bystrov\Exersise_two\obj\Debug\net6.0\ref\Exersise_two.dll
